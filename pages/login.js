@@ -13,7 +13,7 @@ const Login = () => {
         <title>Login</title>
       </head>
       <LoginContainer>
-        <Logo src='https://lh3.googleusercontent.com/proxy/CLf7cB9S_BIf4CbfNcu5gPr0jNygCvYlqZH95R9URAdsV06GS1LsItw93ZHE-2IzKYXgHgTzpwXJXpsjLEOZ7BC-ADFCGpk8Le5C2nmKjkahvttTi0LPYfdAFcx2iU6wAA_j' />
+        <Logo src='https://lh3.googleusercontent.com/proxy/7MP4Kq4n9woCgz4k0x6JwzBxEU6tnY-2QTZ5QYUi4WK1a5jSHA9knCmm-OZcM8MufkFeVkXw0uOGk9lPsB6j7GGg1rCBpberFptTxDtMkF9qN3ytbx-lChe1pwsT35JkoFxs' />
         <Button style={{backgroundColor: '#81dff3', color: 'whitesmoke'}} onClick={signIn}>Sign in with Google</Button>
       </LoginContainer>
     </Container>
